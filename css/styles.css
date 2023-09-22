@@ -1,0 +1,101 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    ;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*===================HEADER======================*/
+
+.header {
+}
+.header-navigation {
+}
+.header-logo {
+font-family: Raleway;
+color: #2E2F42;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.03em;
+text-align: left;
+}
+.header-menu {
+}
+.header-menu-item {
+}
+.header-menu-link {
+color: #2E2F42;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: left;
+}
+.header-logo-iris {
+color: #4D5AE5; 
+}
+.header-soc {
+}
+.header-soc-list {
+}
+.header-soc-item {
+}
+.header-soc-link {
+}
+
+/*===============================================*/
+
+.opening {
+}
+.opening-title {
+}
+.opening-btn {
+}
+.features {
+}
+.features-list {
+}
+.features-item {
+}
+.features-subtitles {
+}
+.features-item-text {
+}
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-item {
+}
+.team-subtitle {
+}
+.team-text {
+}
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-subtitle {
+}
+.portfolio-text {
+}
+.footer {
+}
+.footer-logo {
+}
+.footer-text {
+}
