@@ -12,7 +12,7 @@ a {
     text-decoration: none;
 }
 
-/*===================HEADER======================*/
+/**===================HEADER======================*/
 
 .header {
 }
@@ -45,20 +45,51 @@ color: #4D5AE5;
 .header-soc {
 }
 .header-soc-list {
+color: #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: left;
 }
 .header-soc-item {
 }
 .header-soc-link {
 }
 
-/*===============================================*/
+/**===============================================*/
+
+/**===================OPENING======================*/
 
 .opening {
+    background-color: #2E2F42;
+    ;
 }
 .opening-title {
+color: #FFFFFF;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+
 }
 .opening-btn {
+font-family: inherit;
+cursor: pointer;
+color: #FFFFFF;
+background-color: #4D5AE5;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+text-align: left;
 }
+
+/**===============================================*/
+
+/**===================FEATURES======================*/
+
 .features {
 }
 .features-list {
@@ -69,6 +100,12 @@ color: #4D5AE5;
 }
 .features-item-text {
 }
+
+/**===============================================*/
+
+
+
+
 .team {
 }
 .team-title {
