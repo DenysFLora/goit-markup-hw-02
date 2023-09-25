@@ -14,9 +14,6 @@ a {
 }
 
 .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
     overflow: hidden;
 }
 
@@ -158,13 +155,15 @@ font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+}
 
+.team-list {  
 }
-.team-list {
-    background-color: #FFFFFF;    
-}
+
 .team-item {
+    background-color: #FFFFFF;;
 }
+
 .team-subtitle {
 color: #2E2F42;
 font-size: 20px;
@@ -173,6 +172,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 }
+
 .team-text {
 font-size: 16px;
 line-height: 1.5;
